@@ -27,7 +27,7 @@ public class Project3_BrysonReece {
 	 * prints that line into an array. It then analyzes that array for information
 	 * such as the daily high and low temperatures and where they were recorded,
 	 * then outputs that information to the user. When the end of the file is 
-	 * reached, it closes out its resources and exits gracefully.
+	 * reached, it closes out its resources and exits gracefully. 
 	 */
 	
 	public static void main(String[] args) {
