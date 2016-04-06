@@ -14,7 +14,7 @@ import java.util.StringTokenizer;
  * high and low temps for the day, along with their locations.
  */
 
-public class Project3_BrysonReece {
+public class dataParse {
 	
 	/*
 	 * This method asks for a file location, however uses "data.txt" if nothing
