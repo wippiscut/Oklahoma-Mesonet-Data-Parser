@@ -8,12 +8,7 @@ import java.util.StringTokenizer;
 
 /* 
  * @title: Mesonet Data File Parser
- * @project: three
  * @author: Bryson Reece
- * 
- * @class: CS 1323
- * @professor: Sarah Wu
- * @university: University of Oklahoma
  * 
  * @description: This program parses Mesonet data files and displays the
  * high and low temps for the day, along with their locations.
